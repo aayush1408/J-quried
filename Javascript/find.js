@@ -1,0 +1,1 @@
+$('p').find('strong').addClass(size);
